@@ -1,2 +1,0 @@
-# School-attendance-system
-
